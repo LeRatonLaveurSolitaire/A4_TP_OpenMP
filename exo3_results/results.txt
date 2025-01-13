@@ -1,0 +1,384 @@
+N 1000, num thread 1, exec time 0.000002s with reduction 
+N 1000, num thread 1, exec time 0.000014s with atomicity 
+N 1000, num thread 1, exec time 0.000032s with critical section 
+N 1000, num thread 1, exec time 0.000033s with scheduler static 
+N 1000, num thread 1, exec time 0.000043s with scheduler dynamic 
+N 1000, num thread 1, exec time 0.000044s with scheduler guided 
+N 1000, num thread 2, exec time 0.000004s with reduction 
+N 1000, num thread 2, exec time 0.000067s with atomicity 
+N 1000, num thread 2, exec time 0.000167s with critical section 
+N 1000, num thread 2, exec time 0.000168s with scheduler static 
+N 1000, num thread 2, exec time 0.000192s with scheduler dynamic 
+N 1000, num thread 2, exec time 0.000194s with scheduler guided 
+N 1000, num thread 3, exec time 0.000004s with reduction 
+N 1000, num thread 3, exec time 0.000038s with atomicity 
+N 1000, num thread 3, exec time 0.000078s with critical section 
+N 1000, num thread 3, exec time 0.000078s with scheduler static 
+N 1000, num thread 3, exec time 0.000098s with scheduler dynamic 
+N 1000, num thread 3, exec time 0.000100s with scheduler guided 
+N 1000, num thread 4, exec time 0.000008s with reduction 
+N 1000, num thread 4, exec time 0.000057s with atomicity 
+N 1000, num thread 4, exec time 0.000134s with critical section 
+N 1000, num thread 4, exec time 0.000135s with scheduler static 
+N 1000, num thread 4, exec time 0.000157s with scheduler dynamic 
+N 1000, num thread 4, exec time 0.000160s with scheduler guided 
+N 1000, num thread 5, exec time 0.000010s with reduction 
+N 1000, num thread 5, exec time 0.000064s with atomicity 
+N 1000, num thread 5, exec time 0.000191s with critical section 
+N 1000, num thread 5, exec time 0.000193s with scheduler static 
+N 1000, num thread 5, exec time 0.000219s with scheduler dynamic 
+N 1000, num thread 5, exec time 0.000223s with scheduler guided 
+N 1000, num thread 6, exec time 0.000008s with reduction 
+N 1000, num thread 6, exec time 0.000042s with atomicity 
+N 1000, num thread 6, exec time 0.000093s with critical section 
+N 1000, num thread 6, exec time 0.000094s with scheduler static 
+N 1000, num thread 6, exec time 0.000114s with scheduler dynamic 
+N 1000, num thread 6, exec time 0.000117s with scheduler guided 
+N 1000, num thread 7, exec time 0.000011s with reduction 
+N 1000, num thread 7, exec time 0.000061s with atomicity 
+N 1000, num thread 7, exec time 0.000310s with critical section 
+N 1000, num thread 7, exec time 0.000314s with scheduler static 
+N 1000, num thread 7, exec time 0.000349s with scheduler dynamic 
+N 1000, num thread 7, exec time 0.000356s with scheduler guided 
+N 1000, num thread 8, exec time 0.000015s with reduction 
+N 1000, num thread 8, exec time 0.000078s with atomicity 
+N 1000, num thread 8, exec time 0.000302s with critical section 
+N 1000, num thread 8, exec time 0.000308s with scheduler static 
+N 1000, num thread 8, exec time 0.000348s with scheduler dynamic 
+N 1000, num thread 8, exec time 0.000358s with scheduler guided 
+N 1000, num thread 9, exec time 0.000011s with reduction 
+N 1000, num thread 9, exec time 0.000047s with atomicity 
+N 1000, num thread 9, exec time 0.000175s with critical section 
+N 1000, num thread 9, exec time 0.000177s with scheduler static 
+N 1000, num thread 9, exec time 0.000196s with scheduler dynamic 
+N 1000, num thread 9, exec time 0.000201s with scheduler guided 
+N 1000, num thread 10, exec time 0.000018s with reduction 
+N 1000, num thread 10, exec time 0.000080s with atomicity 
+N 1000, num thread 10, exec time 0.000392s with critical section 
+N 1000, num thread 10, exec time 0.000397s with scheduler static 
+N 1000, num thread 10, exec time 0.000437s with scheduler dynamic 
+N 1000, num thread 10, exec time 0.000449s with scheduler guided 
+N 1000, num thread 11, exec time 0.000017s with reduction 
+N 1000, num thread 11, exec time 0.000130s with atomicity 
+N 1000, num thread 11, exec time 0.000428s with critical section 
+N 1000, num thread 11, exec time 0.000432s with scheduler static 
+N 1000, num thread 11, exec time 0.000479s with scheduler dynamic 
+N 1000, num thread 11, exec time 0.000491s with scheduler guided 
+N 1000, num thread 12, exec time 0.000015s with reduction 
+N 1000, num thread 12, exec time 0.000064s with atomicity 
+N 1000, num thread 12, exec time 0.000219s with critical section 
+N 1000, num thread 12, exec time 0.000221s with scheduler static 
+N 1000, num thread 12, exec time 0.000244s with scheduler dynamic 
+N 1000, num thread 12, exec time 0.000252s with scheduler guided 
+N 1000, num thread 13, exec time 0.000024s with reduction 
+N 1000, num thread 13, exec time 0.000138s with atomicity 
+N 1000, num thread 13, exec time 0.000470s with critical section 
+N 1000, num thread 13, exec time 0.000475s with scheduler static 
+N 1000, num thread 13, exec time 0.000503s with scheduler dynamic 
+N 1000, num thread 13, exec time 0.000516s with scheduler guided 
+N 1000, num thread 14, exec time 0.000018s with reduction 
+N 1000, num thread 14, exec time 0.000093s with atomicity 
+N 1000, num thread 14, exec time 0.000556s with critical section 
+N 1000, num thread 14, exec time 0.000558s with scheduler static 
+N 1000, num thread 14, exec time 0.000580s with scheduler dynamic 
+N 1000, num thread 14, exec time 0.000591s with scheduler guided 
+N 1000, num thread 15, exec time 0.000029s with reduction 
+N 1000, num thread 15, exec time 0.000140s with atomicity 
+N 1000, num thread 15, exec time 0.000435s with critical section 
+N 1000, num thread 15, exec time 0.000446s with scheduler static 
+N 1000, num thread 15, exec time 0.000490s with scheduler dynamic 
+N 1000, num thread 15, exec time 0.000507s with scheduler guided 
+N 1000, num thread 16, exec time 0.000026s with reduction 
+N 1000, num thread 16, exec time 0.000149s with atomicity 
+N 1000, num thread 16, exec time 0.000463s with critical section 
+N 1000, num thread 16, exec time 0.000466s with scheduler static 
+N 1000, num thread 16, exec time 0.000499s with scheduler dynamic 
+N 1000, num thread 16, exec time 0.000515s with scheduler guided 
+N 100000, num thread 1, exec time 0.000105s with reduction 
+N 100000, num thread 1, exec time 0.001181s with atomicity 
+N 100000, num thread 1, exec time 0.002566s with critical section 
+N 100000, num thread 1, exec time 0.002617s with scheduler static 
+N 100000, num thread 1, exec time 0.003368s with scheduler dynamic 
+N 100000, num thread 1, exec time 0.003421s with scheduler guided 
+N 100000, num thread 2, exec time 0.000053s with reduction 
+N 100000, num thread 2, exec time 0.003650s with atomicity 
+N 100000, num thread 2, exec time 0.006389s with critical section 
+N 100000, num thread 2, exec time 0.006415s with scheduler static 
+N 100000, num thread 2, exec time 0.008122s with scheduler dynamic 
+N 100000, num thread 2, exec time 0.008148s with scheduler guided 
+N 100000, num thread 3, exec time 0.000025s with reduction 
+N 100000, num thread 3, exec time 0.003183s with atomicity 
+N 100000, num thread 3, exec time 0.009150s with critical section 
+N 100000, num thread 3, exec time 0.009168s with scheduler static 
+N 100000, num thread 3, exec time 0.010591s with scheduler dynamic 
+N 100000, num thread 3, exec time 0.010609s with scheduler guided 
+N 100000, num thread 4, exec time 0.000029s with reduction 
+N 100000, num thread 4, exec time 0.003464s with atomicity 
+N 100000, num thread 4, exec time 0.010082s with critical section 
+N 100000, num thread 4, exec time 0.010096s with scheduler static 
+N 100000, num thread 4, exec time 0.011610s with scheduler dynamic 
+N 100000, num thread 4, exec time 0.011625s with scheduler guided 
+N 100000, num thread 5, exec time 0.000023s with reduction 
+N 100000, num thread 5, exec time 0.003470s with atomicity 
+N 100000, num thread 5, exec time 0.008971s with critical section 
+N 100000, num thread 5, exec time 0.008987s with scheduler static 
+N 100000, num thread 5, exec time 0.010527s with scheduler dynamic 
+N 100000, num thread 5, exec time 0.010540s with scheduler guided 
+N 100000, num thread 6, exec time 0.000019s with reduction 
+N 100000, num thread 6, exec time 0.002736s with atomicity 
+N 100000, num thread 6, exec time 0.012098s with critical section 
+N 100000, num thread 6, exec time 0.012109s with scheduler static 
+N 100000, num thread 6, exec time 0.013893s with scheduler dynamic 
+N 100000, num thread 6, exec time 0.013906s with scheduler guided 
+N 100000, num thread 7, exec time 0.000021s with reduction 
+N 100000, num thread 7, exec time 0.004184s with atomicity 
+N 100000, num thread 7, exec time 0.013945s with critical section 
+N 100000, num thread 7, exec time 0.013954s with scheduler static 
+N 100000, num thread 7, exec time 0.015409s with scheduler dynamic 
+N 100000, num thread 7, exec time 0.015420s with scheduler guided 
+N 100000, num thread 8, exec time 0.000017s with reduction 
+N 100000, num thread 8, exec time 0.003749s with atomicity 
+N 100000, num thread 8, exec time 0.010952s with critical section 
+N 100000, num thread 8, exec time 0.010963s with scheduler static 
+N 100000, num thread 8, exec time 0.012689s with scheduler dynamic 
+N 100000, num thread 8, exec time 0.012702s with scheduler guided 
+N 100000, num thread 9, exec time 0.000018s with reduction 
+N 100000, num thread 9, exec time 0.004235s with atomicity 
+N 100000, num thread 9, exec time 0.012815s with critical section 
+N 100000, num thread 9, exec time 0.012826s with scheduler static 
+N 100000, num thread 9, exec time 0.014668s with scheduler dynamic 
+N 100000, num thread 9, exec time 0.014682s with scheduler guided 
+N 100000, num thread 10, exec time 0.000028s with reduction 
+N 100000, num thread 10, exec time 0.005713s with atomicity 
+N 100000, num thread 10, exec time 0.017404s with critical section 
+N 100000, num thread 10, exec time 0.017416s with scheduler static 
+N 100000, num thread 10, exec time 0.019365s with scheduler dynamic 
+N 100000, num thread 10, exec time 0.019379s with scheduler guided 
+N 100000, num thread 11, exec time 0.000041s with reduction 
+N 100000, num thread 11, exec time 0.005084s with atomicity 
+N 100000, num thread 11, exec time 0.016684s with critical section 
+N 100000, num thread 11, exec time 0.016696s with scheduler static 
+N 100000, num thread 11, exec time 0.018681s with scheduler dynamic 
+N 100000, num thread 11, exec time 0.018699s with scheduler guided 
+N 100000, num thread 12, exec time 0.000040s with reduction 
+N 100000, num thread 12, exec time 0.006228s with atomicity 
+N 100000, num thread 12, exec time 0.020240s with critical section 
+N 100000, num thread 12, exec time 0.020252s with scheduler static 
+N 100000, num thread 12, exec time 0.021873s with scheduler dynamic 
+N 100000, num thread 12, exec time 0.021886s with scheduler guided 
+N 100000, num thread 13, exec time 0.000035s with reduction 
+N 100000, num thread 13, exec time 0.005427s with atomicity 
+N 100000, num thread 13, exec time 0.018181s with critical section 
+N 100000, num thread 13, exec time 0.018190s with scheduler static 
+N 100000, num thread 13, exec time 0.020244s with scheduler dynamic 
+N 100000, num thread 13, exec time 0.020265s with scheduler guided 
+N 100000, num thread 14, exec time 0.000050s with reduction 
+N 100000, num thread 14, exec time 0.007324s with atomicity 
+N 100000, num thread 14, exec time 0.021621s with critical section 
+N 100000, num thread 14, exec time 0.021630s with scheduler static 
+N 100000, num thread 14, exec time 0.023492s with scheduler dynamic 
+N 100000, num thread 14, exec time 0.023510s with scheduler guided 
+N 100000, num thread 15, exec time 0.000039s with reduction 
+N 100000, num thread 15, exec time 0.007255s with atomicity 
+N 100000, num thread 15, exec time 0.021654s with critical section 
+N 100000, num thread 15, exec time 0.021664s with scheduler static 
+N 100000, num thread 15, exec time 0.023336s with scheduler dynamic 
+N 100000, num thread 15, exec time 0.023352s with scheduler guided 
+N 100000, num thread 16, exec time 0.000031s with reduction 
+N 100000, num thread 16, exec time 0.005635s with atomicity 
+N 100000, num thread 16, exec time 0.020160s with critical section 
+N 100000, num thread 16, exec time 0.020169s with scheduler static 
+N 100000, num thread 16, exec time 0.022159s with scheduler dynamic 
+N 100000, num thread 16, exec time 0.022184s with scheduler guided 
+N 10000000, num thread 1, exec time 0.005141s with reduction 
+N 10000000, num thread 1, exec time 0.103039s with atomicity 
+N 10000000, num thread 1, exec time 0.241632s with critical section 
+N 10000000, num thread 1, exec time 0.246778s with scheduler static 
+N 10000000, num thread 1, exec time 0.321984s with scheduler dynamic 
+N 10000000, num thread 1, exec time 0.327126s with scheduler guided 
+N 10000000, num thread 2, exec time 0.002688s with reduction 
+N 10000000, num thread 2, exec time 0.280659s with atomicity 
+N 10000000, num thread 2, exec time 0.620550s with critical section 
+N 10000000, num thread 2, exec time 0.623402s with scheduler static 
+N 10000000, num thread 2, exec time 0.806146s with scheduler dynamic 
+N 10000000, num thread 2, exec time 0.808709s with scheduler guided 
+N 10000000, num thread 3, exec time 0.001758s with reduction 
+N 10000000, num thread 3, exec time 0.344899s with atomicity 
+N 10000000, num thread 3, exec time 0.999587s with critical section 
+N 10000000, num thread 3, exec time 1.001524s with scheduler static 
+N 10000000, num thread 3, exec time 1.181105s with scheduler dynamic 
+N 10000000, num thread 3, exec time 1.182818s with scheduler guided 
+N 10000000, num thread 4, exec time 0.001374s with reduction 
+N 10000000, num thread 4, exec time 0.370668s with atomicity 
+N 10000000, num thread 4, exec time 1.042578s with critical section 
+N 10000000, num thread 4, exec time 1.044132s with scheduler static 
+N 10000000, num thread 4, exec time 1.217716s with scheduler dynamic 
+N 10000000, num thread 4, exec time 1.219007s with scheduler guided 
+N 10000000, num thread 5, exec time 0.001112s with reduction 
+N 10000000, num thread 5, exec time 0.364327s with atomicity 
+N 10000000, num thread 5, exec time 1.193926s with critical section 
+N 10000000, num thread 5, exec time 1.195228s with scheduler static 
+N 10000000, num thread 5, exec time 1.370385s with scheduler dynamic 
+N 10000000, num thread 5, exec time 1.371425s with scheduler guided 
+N 10000000, num thread 6, exec time 0.000968s with reduction 
+N 10000000, num thread 6, exec time 0.340794s with atomicity 
+N 10000000, num thread 6, exec time 1.049946s with critical section 
+N 10000000, num thread 6, exec time 1.051098s with scheduler static 
+N 10000000, num thread 6, exec time 1.211824s with scheduler dynamic 
+N 10000000, num thread 6, exec time 1.212707s with scheduler guided 
+N 10000000, num thread 7, exec time 0.000810s with reduction 
+N 10000000, num thread 7, exec time 0.340391s with atomicity 
+N 10000000, num thread 7, exec time 1.374767s with critical section 
+N 10000000, num thread 7, exec time 1.375774s with scheduler static 
+N 10000000, num thread 7, exec time 1.537936s with scheduler dynamic 
+N 10000000, num thread 7, exec time 1.538698s with scheduler guided 
+N 10000000, num thread 8, exec time 0.000742s with reduction 
+N 10000000, num thread 8, exec time 0.341080s with atomicity 
+N 10000000, num thread 8, exec time 1.219472s with critical section 
+N 10000000, num thread 8, exec time 1.220362s with scheduler static 
+N 10000000, num thread 8, exec time 1.377511s with scheduler dynamic 
+N 10000000, num thread 8, exec time 1.378187s with scheduler guided 
+N 10000000, num thread 9, exec time 0.000921s with reduction 
+N 10000000, num thread 9, exec time 0.354182s with atomicity 
+N 10000000, num thread 9, exec time 1.133750s with critical section 
+N 10000000, num thread 9, exec time 1.145774s with scheduler static 
+N 10000000, num thread 9, exec time 1.316413s with scheduler dynamic 
+N 10000000, num thread 9, exec time 1.317109s with scheduler guided 
+N 10000000, num thread 10, exec time 0.000927s with reduction 
+N 10000000, num thread 10, exec time 0.431358s with atomicity 
+N 10000000, num thread 10, exec time 1.644207s with critical section 
+N 10000000, num thread 10, exec time 1.648916s with scheduler static 
+N 10000000, num thread 10, exec time 1.830136s with scheduler dynamic 
+N 10000000, num thread 10, exec time 1.830750s with scheduler guided 
+N 10000000, num thread 11, exec time 0.000857s with reduction 
+N 10000000, num thread 11, exec time 0.335114s with atomicity 
+N 10000000, num thread 11, exec time 1.211782s with critical section 
+N 10000000, num thread 11, exec time 1.212759s with scheduler static 
+N 10000000, num thread 11, exec time 1.368209s with scheduler dynamic 
+N 10000000, num thread 11, exec time 1.368799s with scheduler guided 
+N 10000000, num thread 12, exec time 0.000798s with reduction 
+N 10000000, num thread 12, exec time 0.372547s with atomicity 
+N 10000000, num thread 12, exec time 1.627119s with critical section 
+N 10000000, num thread 12, exec time 1.628862s with scheduler static 
+N 10000000, num thread 12, exec time 1.810897s with scheduler dynamic 
+N 10000000, num thread 12, exec time 1.811517s with scheduler guided 
+N 10000000, num thread 13, exec time 0.000740s with reduction 
+N 10000000, num thread 13, exec time 0.458592s with atomicity 
+N 10000000, num thread 13, exec time 1.677380s with critical section 
+N 10000000, num thread 13, exec time 1.678414s with scheduler static 
+N 10000000, num thread 13, exec time 1.858816s with scheduler dynamic 
+N 10000000, num thread 13, exec time 1.859361s with scheduler guided 
+N 10000000, num thread 14, exec time 0.000690s with reduction 
+N 10000000, num thread 14, exec time 0.456817s with atomicity 
+N 10000000, num thread 14, exec time 1.210828s with critical section 
+N 10000000, num thread 14, exec time 1.212120s with scheduler static 
+N 10000000, num thread 14, exec time 1.383854s with scheduler dynamic 
+N 10000000, num thread 14, exec time 1.384403s with scheduler guided 
+N 10000000, num thread 15, exec time 0.000649s with reduction 
+N 10000000, num thread 15, exec time 0.398881s with atomicity 
+N 10000000, num thread 15, exec time 1.070380s with critical section 
+N 10000000, num thread 15, exec time 1.072808s with scheduler static 
+N 10000000, num thread 15, exec time 1.248888s with scheduler dynamic 
+N 10000000, num thread 15, exec time 1.249338s with scheduler guided 
+N 10000000, num thread 16, exec time 0.000617s with reduction 
+N 10000000, num thread 16, exec time 0.450950s with atomicity 
+N 10000000, num thread 16, exec time 1.835765s with critical section 
+N 10000000, num thread 16, exec time 1.836463s with scheduler static 
+N 10000000, num thread 16, exec time 2.013969s with scheduler dynamic 
+N 10000000, num thread 16, exec time 2.014411s with scheduler guided 
+N 100000000, num thread 1, exec time 0.051696s with reduction 
+N 100000000, num thread 1, exec time 1.030799s with atomicity 
+N 100000000, num thread 1, exec time 2.416754s with critical section 
+N 100000000, num thread 1, exec time 2.468458s with scheduler static 
+N 100000000, num thread 1, exec time 3.222681s with scheduler dynamic 
+N 100000000, num thread 1, exec time 3.274381s with scheduler guided 
+N 100000000, num thread 2, exec time 0.026240s with reduction 
+N 100000000, num thread 2, exec time 3.486439s with atomicity 
+N 100000000, num thread 2, exec time 6.333440s with critical section 
+N 100000000, num thread 2, exec time 6.359745s with scheduler static 
+N 100000000, num thread 2, exec time 7.906226s with scheduler dynamic 
+N 100000000, num thread 2, exec time 7.932135s with scheduler guided 
+N 100000000, num thread 3, exec time 0.017550s with reduction 
+N 100000000, num thread 3, exec time 3.500305s with atomicity 
+N 100000000, num thread 3, exec time 10.364914s with critical section 
+N 100000000, num thread 3, exec time 10.382740s with scheduler static 
+N 100000000, num thread 3, exec time 12.180983s with scheduler dynamic 
+N 100000000, num thread 3, exec time 12.198406s with scheduler guided 
+N 100000000, num thread 4, exec time 0.013223s with reduction 
+N 100000000, num thread 4, exec time 3.546761s with atomicity 
+N 100000000, num thread 4, exec time 12.251067s with critical section 
+N 100000000, num thread 4, exec time 12.264602s with scheduler static 
+N 100000000, num thread 4, exec time 14.029877s with scheduler dynamic 
+N 100000000, num thread 4, exec time 14.043032s with scheduler guided 
+N 100000000, num thread 5, exec time 0.010706s with reduction 
+N 100000000, num thread 5, exec time 3.743187s with atomicity 
+N 100000000, num thread 5, exec time 12.125050s with critical section 
+N 100000000, num thread 5, exec time 12.135932s with scheduler static 
+N 100000000, num thread 5, exec time 13.935758s with scheduler dynamic 
+N 100000000, num thread 5, exec time 13.946370s with scheduler guided 
+N 100000000, num thread 6, exec time 0.009452s with reduction 
+N 100000000, num thread 6, exec time 3.437588s with atomicity 
+N 100000000, num thread 6, exec time 8.184831s with critical section 
+N 100000000, num thread 6, exec time 8.194251s with scheduler static 
+N 100000000, num thread 6, exec time 9.631188s with scheduler dynamic 
+N 100000000, num thread 6, exec time 9.640319s with scheduler guided 
+N 100000000, num thread 7, exec time 0.008433s with reduction 
+N 100000000, num thread 7, exec time 3.616910s with atomicity 
+N 100000000, num thread 7, exec time 9.199885s with critical section 
+N 100000000, num thread 7, exec time 9.209014s with scheduler static 
+N 100000000, num thread 7, exec time 10.769221s with scheduler dynamic 
+N 100000000, num thread 7, exec time 10.777422s with scheduler guided 
+N 100000000, num thread 8, exec time 0.007764s with reduction 
+N 100000000, num thread 8, exec time 3.430483s with atomicity 
+N 100000000, num thread 8, exec time 8.820480s with critical section 
+N 100000000, num thread 8, exec time 8.829000s with scheduler static 
+N 100000000, num thread 8, exec time 10.606665s with scheduler dynamic 
+N 100000000, num thread 8, exec time 10.614368s with scheduler guided 
+N 100000000, num thread 9, exec time 0.010815s with reduction 
+N 100000000, num thread 9, exec time 2.296795s with atomicity 
+N 100000000, num thread 9, exec time 8.017405s with critical section 
+N 100000000, num thread 9, exec time 8.028425s with scheduler static 
+N 100000000, num thread 9, exec time 9.548775s with scheduler dynamic 
+N 100000000, num thread 9, exec time 9.557124s with scheduler guided 
+N 100000000, num thread 10, exec time 0.010074s with reduction 
+N 100000000, num thread 10, exec time 3.688566s with atomicity 
+N 100000000, num thread 10, exec time 10.107127s with critical section 
+N 100000000, num thread 10, exec time 10.118655s with scheduler static 
+N 100000000, num thread 10, exec time 11.986574s with scheduler dynamic 
+N 100000000, num thread 10, exec time 11.994233s with scheduler guided 
+N 100000000, num thread 11, exec time 0.009571s with reduction 
+N 100000000, num thread 11, exec time 3.943918s with atomicity 
+N 100000000, num thread 11, exec time 13.935975s with critical section 
+N 100000000, num thread 11, exec time 13.945548s with scheduler static 
+N 100000000, num thread 11, exec time 15.655730s with scheduler dynamic 
+N 100000000, num thread 11, exec time 15.663813s with scheduler guided 
+N 100000000, num thread 12, exec time 0.009162s with reduction 
+N 100000000, num thread 12, exec time 4.019523s with atomicity 
+N 100000000, num thread 12, exec time 10.671078s with critical section 
+N 100000000, num thread 12, exec time 10.682943s with scheduler static 
+N 100000000, num thread 12, exec time 12.417859s with scheduler dynamic 
+N 100000000, num thread 12, exec time 12.425540s with scheduler guided 
+N 100000000, num thread 13, exec time 0.008729s with reduction 
+N 100000000, num thread 13, exec time 3.904849s with atomicity 
+N 100000000, num thread 13, exec time 16.451222s with critical section 
+N 100000000, num thread 13, exec time 16.461457s with scheduler static 
+N 100000000, num thread 13, exec time 17.982390s with scheduler dynamic 
+N 100000000, num thread 13, exec time 17.990101s with scheduler guided 
+N 100000000, num thread 14, exec time 0.008303s with reduction 
+N 100000000, num thread 14, exec time 3.856113s with atomicity 
+N 100000000, num thread 14, exec time 22.352848s with critical section 
+N 100000000, num thread 14, exec time 22.362987s with scheduler static 
+N 100000000, num thread 14, exec time 24.237047s with scheduler dynamic 
+N 100000000, num thread 14, exec time 24.244787s with scheduler guided 
+N 100000000, num thread 15, exec time 0.008328s with reduction 
+N 100000000, num thread 15, exec time 4.132135s with atomicity 
+N 100000000, num thread 15, exec time 17.845009s with critical section 
+N 100000000, num thread 15, exec time 17.853284s with scheduler static 
+N 100000000, num thread 15, exec time 19.571134s with scheduler dynamic 
+N 100000000, num thread 15, exec time 19.578887s with scheduler guided 
+N 100000000, num thread 16, exec time 0.007771s with reduction 
+N 100000000, num thread 16, exec time 2.795595s with atomicity 
+N 100000000, num thread 16, exec time 17.604455s with critical section 
+N 100000000, num thread 16, exec time 17.612246s with scheduler static 
+N 100000000, num thread 16, exec time 19.392098s with scheduler dynamic 
+N 100000000, num thread 16, exec time 19.399787s with scheduler guided 

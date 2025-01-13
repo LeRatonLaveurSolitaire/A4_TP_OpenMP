@@ -123,7 +123,7 @@ int main(int argc, char **argv)
 
 	// Now we write the output.
 	char corner_image[30];
-	sprintf(corner_image, "output_images/corners.pgm");
+	sprintf(corner_image, "../output_images/corners.pgm");
 
 	write_imagef(corner_image, original_image, width, height);
 
@@ -278,14 +278,17 @@ void convolve(float *kernel, float *image, float *resultimage, int image_width, 
 	float sum;
 	int i, j, k, m, offsetj, offseti;
 	// assign the kernel to the new array
+	#pragma omp parallel for reduction(+:sum) 
 	for (i = 0; i < image_height; i++)
 	{
+		
 		for (j = 0; j < image_width; j++)
 		{
 
 			// reset tracker
 			sum = 0.0;
 			// for each item in the kernel
+			//#pragma omp parallel for reduction(+:sum) 
 			for (k = 0; k < kernel_height; k++)
 			{
 				for (m = 0; m < kernel_width; m++)

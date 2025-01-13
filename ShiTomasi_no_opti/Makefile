@@ -7,12 +7,6 @@ TARGET=ShiTomasi
 
 CXX = gcc
 
-exo1 :
-	$(CXX) $(CFLAGS) exo1.c -o exo1
-
-exo2 :
-	$(CXX) $(CFLAGS) -lm exo2.c -o exo2
-
 all: debug
 
 debug: CCFLAGS += -DDEBUG -g
