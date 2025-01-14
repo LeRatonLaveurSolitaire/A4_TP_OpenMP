@@ -141,7 +141,7 @@ def plot_perf_N(input_list:list = None,title:str = None,n_in:int=None,exo3:bool 
 
         plt.tight_layout()
         plt.savefig(title.replace(' ', '_')+'.pdf')
-        #plt.show()
+        plt.show()
     else:
         opti_name = []
         dico_opti_name ={}
@@ -186,22 +186,22 @@ def main() -> None:
     results_f1 = pars_exo2("./exo2_results/result_f1.txt")
     results_f2 = pars_exo2("./exo2_results/result_f2.txt")
     results_exo3 = pars_exo3("./exo3_results/results.txt")
-    plot_time_N(results_f1,'Time vs N for f1')
-    plot_time_N(results_f2,'Time vs N for f2')
-    plot_time_N(results_exo3,title='Time vs N for 8 threads' ,exo3=True)
+    # plot_time_N(results_f1,'Time vs N for f1')
+    # plot_time_N(results_f2,'Time vs N for f2')
+    # plot_time_N(results_exo3,title='Time vs N for 8 threads' ,exo3=True)
 
-    plot_perf_N(results_f1,'Acceleration exo2 f1 for N 1000',n_in=1000)
-    plot_perf_N(results_f1,'Acceleration exo2 f1 for N 10000000',n_in=100000)
-    plot_perf_N(results_f1,'Acceleration exo2 f1 for N 10000000',n_in=10000000)
-    plot_perf_N(results_f1,'Acceleration exo2 f1 for N 100000000',n_in=100000000)
+    # plot_perf_N(results_f1,'Acceleration exo2 f1 for N 1000',n_in=1000)
+    # plot_perf_N(results_f1,'Acceleration exo2 f1 for N 10000000',n_in=100000)
+    # plot_perf_N(results_f1,'Acceleration exo2 f1 for N 10000000',n_in=10000000)
+    # plot_perf_N(results_f1,'Acceleration exo2 f1 for N 100000000',n_in=100000000)
     plot_perf_N(results_f2,'Acceleration exo2 f2 for N 1000',n_in=1000)
-    plot_perf_N(results_f2,'Acceleration exo2 f2 for N 10000000',n_in=100000)
-    plot_perf_N(results_f2,'Acceleration exo2 f2 for N 10000000',n_in=10000000)
-    plot_perf_N(results_f2,'Acceleration exo2 f2 for N 100000000',n_in=100000000)
-    plot_perf_N(results_exo3,'Acceleration exo3 for N 1000',n_in=1000,exo3=True)
-    plot_perf_N(results_exo3,'Acceleration exo3 for N 100000',n_in=100000,exo3=True)
-    plot_perf_N(results_exo3,'Acceleration exo3 for N 10000000',n_in=10000000,exo3=True)
-    plot_perf_N(results_exo3,'Acceleration exo3 for N 100000000',n_in=100000000,exo3=True)
+    # plot_perf_N(results_f2,'Acceleration exo2 f2 for N 10000000',n_in=100000)
+    # plot_perf_N(results_f2,'Acceleration exo2 f2 for N 10000000',n_in=10000000)
+    # plot_perf_N(results_f2,'Acceleration exo2 f2 for N 100000000',n_in=100000000)
+    # plot_perf_N(results_exo3,'Acceleration exo3 for N 1000',n_in=1000,exo3=True)
+    # plot_perf_N(results_exo3,'Acceleration exo3 for N 100000',n_in=100000,exo3=True)
+    # plot_perf_N(results_exo3,'Acceleration exo3 for N 10000000',n_in=10000000,exo3=True)
+    # plot_perf_N(results_exo3,'Acceleration exo3 for N 100000000',n_in=100000000,exo3=True)
 
 
 if __name__ == "__main__":
